@@ -1,0 +1,5 @@
+{
+  "name": "The Ember Table",
+  "description": "Wood-fired kitchen since 2012. Authentic South African grills, mains, and desserts.",
+  "requestFramePermissions": ["geolocation"]
+}
